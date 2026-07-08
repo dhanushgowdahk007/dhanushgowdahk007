@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **dhanushgowdahk007/dhanushgowdahk007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 * GitHub: https://github.com/dhanushgowdahk007
 * LinkedIn: https://linkedin.com/in/dhanushgowdahk
-* Email: [dhanushgowdahk04@gmail.com](dhanushgowdahk04@gmail.com)
+* Email: [dhanushgowdahk04@gmail.com](mailto:dhanushgowdahk04@gmail.com)
 
 ---
 
