@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 * GitHub: https://github.com/dhanushgowdahk007
 * LinkedIn: https://linkedin.com/in/dhanushgowdahk
-* Email: [dhanushgowdahk04@example.com](mailto:your-email@example.com)
+* Email: [dhanushgowdahk04@gmail.com](dhanushgowdahk04@gmail.com)
 
 ---
 
